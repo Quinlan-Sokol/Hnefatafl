@@ -1,0 +1,11 @@
+e,e,e,e,a,a,a,e,e,e,e
+e,e,e,e,a,a,a,e,e,e,e
+e,e,e,e,e,d,e,e,e,e,e
+e,e,e,e,e,d,e,e,e,e,e
+a,a,e,e,e,d,e,e,e,a,a
+a,a,d,d,d,k,d,d,d,a,a
+a,a,e,e,e,d,e,e,e,a,a
+e,e,e,e,e,d,e,e,e,e,e
+e,e,e,e,e,d,e,e,e,e,e
+e,e,e,e,a,a,a,e,e,e,e
+e,e,e,e,a,a,a,e,e,e,e
